@@ -3,7 +3,7 @@ Meta Propagation Networks for Graph Few-shot Semi-supervised Learning (AAAI2022)
 
 ## Meta-LP
 
-This is the source code and data of AAAI2022 paper "Meta Propagation Networks for Graph Few-shot Semi-supervised Learning"
+This is the source code and data of AAAI2022 paper ["Meta Propagation Networks for Graph Few-shot Semi-supervised Learning"](https://arxiv.org/abs/2112.09810)
 
 
 ## Requirements
